@@ -1,0 +1,16 @@
+img{
+	width: 100%;
+	height: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+ h2{
+	font-size: 25px !important;
+	color: #11b7e7 !important;
+}
+p{
+	font-size: 16px;
+}
+#hot_line p{
+	font-size: 26px;
+}
